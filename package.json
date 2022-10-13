@@ -40,7 +40,7 @@
   "dependencies": {
     "abbrev": "^1.1.1",
     "bluebird": "^3.5.5",
-    "chalk": "^4.0.0",
+    "chalk": "^5.1.2",
     "command-exists": "^1.2.8",
     "hexo-fs": "^3.0.1",
     "hexo-log": "^2.0.0",
